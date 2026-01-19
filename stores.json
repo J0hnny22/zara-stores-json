@@ -1,0 +1,176 @@
+{
+  "stores": [
+    {
+      "name": "ZARA Madrid Gran Via",
+      "latitude": 40.420303,
+      "longitude": -3.705773,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 915 123 456"
+    },
+    {
+      "name": "ZARA Barcelona Passeig de Gràcia",
+      "latitude": 41.391670,
+      "longitude": 2.164912,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 932 345 678"
+    },
+    {
+      "name": "ZARA Valencia Colón",
+      "latitude": 39.469907,
+      "longitude": -0.376288,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 963 456 789"
+    },
+    {
+      "name": "ZARA Sevilla Nervión",
+      "latitude": 37.382830,
+      "longitude": -5.973173,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 954 567 890"
+    },
+    {
+      "name": "ZARA Bilbao Gran Vía",
+      "latitude": 43.262985,
+      "longitude": -2.935013,
+      "opening_hours": "M-F: 10-20\nS: 10-21",
+      "phone": "+34 944 678 901"
+    },
+    {
+      "name": "ZARA Málaga Larios",
+      "latitude": 36.721302,
+      "longitude": -4.421636,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 952 789 012"
+    },
+    {
+      "name": "ZARA Zaragoza Independencia",
+      "latitude": 41.648823,
+      "longitude": -0.889085,
+      "opening_hours": "M-F: 10-21\nS: 10-21",
+      "phone": "+34 976 890 123"
+    },
+    {
+      "name": "ZARA Barcelona Diagonal Mar",
+      "latitude": 41.409035,
+      "longitude": 2.216893,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 933 111 201"
+    },
+    {
+      "name": "ZARA Barcelona Glòries",
+      "latitude": 41.403629,
+      "longitude": 2.190996,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 933 111 202"
+    },
+    {
+      "name": "ZARA Barcelona Portal de l'Àngel",
+      "latitude": 41.385064,
+      "longitude": 2.173403,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 933 111 203"
+    },
+    {
+      "name": "ZARA Barcelona La Maquinista",
+      "latitude": 41.437077,
+      "longitude": 2.199018,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 933 111 204"
+    },
+    {
+      "name": "ZARA L'Hospitalet Gran Via 2",
+      "latitude": 41.357844,
+      "longitude": 2.129694,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 934 222 301"
+    },
+    {
+      "name": "ZARA Cornellà Splau",
+      "latitude": 41.341377,
+      "longitude": 2.070203,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 934 222 302"
+    },
+    {
+      "name": "ZARA Sant Cugat Centre Comercial",
+      "latitude": 41.471619,
+      "longitude": 2.084350,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 935 333 401"
+    },
+    {
+      "name": "ZARA Sabadell Eix Macià",
+      "latitude": 41.546295,
+      "longitude": 2.107675,
+      "opening_hours": "M-F: 10-21\nS: 10-21",
+      "phone": "+34 937 444 402"
+    },
+    {
+      "name": "ZARA Terrassa Parc Vallès",
+      "latitude": 41.561479,
+      "longitude": 2.009781,
+      "opening_hours": "M-F: 10-21\nS: 10-21",
+      "phone": "+34 937 444 403"
+    },
+    {
+      "name": "ZARA Girona Centre",
+      "latitude": 41.981019,
+      "longitude": 2.823699,
+      "opening_hours": "M-F: 10-20\nS: 10-21",
+      "phone": "+34 972 555 501"
+    },
+    {
+      "name": "ZARA Figueres Centre",
+      "latitude": 42.267257,
+      "longitude": 2.958561,
+      "opening_hours": "M-F: 10-20\nS: 10-21",
+      "phone": "+34 972 555 502"
+    },
+    {
+      "name": "ZARA Blanes Shopping Area",
+      "latitude": 41.675234,
+      "longitude": 2.792609,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 972 555 503"
+    },
+    {
+      "name": "ZARA Tarragona Parc Central",
+      "latitude": 41.116786,
+      "longitude": 1.245431,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 977 666 601"
+    },
+    {
+      "name": "ZARA Reus La Fira",
+      "latitude": 41.156120,
+      "longitude": 1.107676,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 977 666 602"
+    },
+    {
+      "name": "ZARA Tortosa Centre",
+      "latitude": 40.812573,
+      "longitude": 0.521690,
+      "opening_hours": "M-F: 10-20\nS: 10-21",
+      "phone": "+34 977 666 603"
+    },
+    {
+      "name": "ZARA Lleida Eix Comercial",
+      "latitude": 41.616741,
+      "longitude": 0.622197,
+      "opening_hours": "M-F: 10-20\nS: 10-21",
+      "phone": "+34 973 777 701"
+    },
+    {
+      "name": "ZARA Balaguer Centre",
+      "latitude": 41.789468,
+      "longitude": 0.808624,
+      "opening_hours": "M-F: 10-20\nS: 10-21",
+      "phone": "+34 973 777 702"
+    }
+
+
+
+
+  ]
+}
