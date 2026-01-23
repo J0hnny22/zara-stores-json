@@ -468,6 +468,102 @@
     "description": "Camisa romàntica de lli amb detall de volants aplicats al pit i a les espatlles.",
     "imageUrl": "https://static.zara.net/assets/public/0e95/a884/888146149a02/a0c488204c70/08252327250-p/08252327250-p.jpg?ts=1752656959033&w=326",
     "productUrl": "https://www.zara.com/es/es/camisa-volants-li-zw-p08252327.html"
+  },
+    {
+    "id": "zara-040",
+    "name": "Camisa arrugada botons",
+    "price": 22.95,
+    "currency": "EUR",
+    "brand": "Zara",
+    "category": "Dona · Camises",
+    "reference": "8041/278/406",
+    "description": "Camisa de coll solapa i màniga llarga amb teixit d'efecte arrugat i tancament frontal amb botons.",
+    "imageUrl": "https://static.zara.net/assets/public/673f/0723/ea3544feb398/4315987fb17f/08041278406-001-p/08041278406-001-p.jpg?ts=1752062471174&w=326",
+    "productUrl": "https://www.zara.com/es/es/camisa-arrugada-botons-p08041278.html"
+  },
+  {
+    "id": "zara-041",
+    "name": "Pantaló bombacho paisley ZW Collection",
+    "price": 49.95,
+    "currency": "EUR",
+    "brand": "Zara",
+    "category": "Dona · ZW Collection",
+    "reference": "9047/106/330",
+    "description": "Pantaló de tir alt amb cintura elàstica i baix acabat en puny. Estampat paisley exclusiu.",
+    "imageUrl": "https://static.zara.net/assets/public/906e/6ccf/6e044719b6f0/b0c2a3a28b9e/09047106330-p/09047106330-p.jpg?ts=1759419197801&w=326",
+    "productUrl": "https://www.zara.com/es/es/pantalo-bombacho-paisley-zw-p09047106.html"
+  },
+  {
+    "id": "zara-042",
+    "name": "Pantaló fluit bombacho",
+    "price": 29.95,
+    "currency": "EUR",
+    "brand": "Zara",
+    "category": "Dona · Pantalons",
+    "reference": "6929/506/251",
+    "description": "Pantaló de teixit lleuger amb caiguda fluida, tall bombat i detall de plecs a la cintura.",
+    "imageUrl": "https://static.zara.net/assets/public/d012/fda8/164a46f0b5c7/f618bc332272/06929506251-p/06929506251-p.jpg?ts=1754575259231&w=326",
+    "productUrl": "https://www.zara.com/es/es/pantalo-fluit-bombacho-p06929506.html"
+  },
+  {
+    "id": "zara-043",
+    "name": "Pantaló fluit cinturó",
+    "price": 35.95,
+    "currency": "EUR",
+    "brand": "Zara",
+    "category": "Dona · Pantalons",
+    "reference": "6929/252/658",
+    "description": "Pantaló de cama ampla confeccionat en teixit suau. Inclou cinturó del mateix teixit amb sivella.",
+    "imageUrl": "https://static.zara.net/assets/public/ef1e/de8d/ad0a4ef2adbd/f0b78e20b26e/06929252658-p/06929252658-p.jpg?ts=1752767199545&w=326",
+    "productUrl": "https://www.zara.com/es/es/pantalo-fluit-cinturo-p06929252.html"
+  },
+  {
+    "id": "zara-044",
+    "name": "Pantaló barrel estampat animal",
+    "price": 39.95,
+    "currency": "EUR",
+    "brand": "Zara",
+    "category": "Dona · Pantalons",
+    "reference": "9074/218/099",
+    "description": "Pantaló de tall 'barrel' amb pernera corbada i estampat animal de tendència.",
+    "imageUrl": "https://static.zara.net/assets/public/dae3/7595/2bbd438baa4f/c31fdecf889b/09074218099-1-p/09074218099-1-p.jpg?ts=1759934721561&w=326",
+    "productUrl": "https://www.zara.com/es/es/pantalo-barrel-animal-p09074218.html"
+  },
+  {
+    "id": "zara-045",
+    "name": "Pantaló ample nervi",
+    "price": 29.95,
+    "currency": "EUR",
+    "brand": "Zara",
+    "category": "Home · Pantalons",
+    "reference": "7484/284/605",
+    "description": "Pantaló de tall relaxat amb detall de nervi marcat a la part frontal de la cama.",
+    "imageUrl": "https://static.zara.net/assets/public/40a4/58af/c88a4eb192ff/8b2a799c4c37/07484284605-p/07484284605-p.jpg?ts=1755099367173&w=326",
+    "productUrl": "https://www.zara.com/es/es/pantalo-ample-nervi-p07484284.html"
+  },
+  {
+    "id": "zara-046",
+    "name": "Pantaló ample despunts contrast",
+    "price": 39.95,
+    "currency": "EUR",
+    "brand": "Zara",
+    "category": "Dona · Pantalons",
+    "reference": "3293/333/701",
+    "description": "Pantaló de tir alt amb detall de costures i despunts en fil a contrast sobre teixit fosc.",
+    "imageUrl": "https://static.zara.net/assets/public/9aa2/f8da/437c46ff8ebc/5ac74349aabf/03293330701-p/03293330701-p.jpg?ts=1757681872811&w=326",
+    "productUrl": "https://www.zara.com/es/es/pantalo-despunts-contrast-p03293330.html"
+  },
+  {
+    "id": "zara-047",
+    "name": "Pantaló bombacho estampat",
+    "price": 25.95,
+    "currency": "EUR",
+    "brand": "Zara",
+    "category": "Dona · Pantalons",
+    "reference": "5039/207/120",
+    "description": "Pantaló còmode amb cintura elàstica i baix ajustat, destacant pel seu estampat geomètric.",
+    "imageUrl": "https://static.zara.net/assets/public/b87d/0ce6/7d69447e8f89/abdf9de27a55/05039207120-p/05039207120-p.jpg?ts=1755764905368&w=326",
+    "productUrl": "https://www.zara.com/es/es/pantalo-bombacho-estampat-p05039207.html"
   }
   ]
 }
