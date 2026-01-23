@@ -167,10 +167,2106 @@
       "longitude": 0.808624,
       "opening_hours": "M-F: 10-20\nS: 10-21",
       "phone": "+34 973 777 702"
+    },
+    {
+      "name": "ZARA Monterrey Market Square",
+      "latitude": 25.633042,
+      "longitude": -100.37505,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+52 81 1001"
+    },
+    {
+      "name": "ZARA L'Hospitalet de Llobregat Downtown",
+      "latitude": 41.416389,
+      "longitude": 2.18018,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1001"
+    },
+    {
+      "name": "ZARA Vancouver Station",
+      "latitude": 49.304936,
+      "longitude": -123.211403,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+1 604 1001"
+    },
+    {
+      "name": "ZARA Doha Plaza",
+      "latitude": 25.373104,
+      "longitude": 51.512894,
+      "opening_hours": "M-F: 10-22\nS: 10-23",
+      "phone": "+974 4 1001"
+    },
+    {
+      "name": "ZARA Rio de Janeiro Avenue",
+      "latitude": -22.821799,
+      "longitude": -43.265071,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+55 21 1001"
+    },
+    {
+      "name": "ZARA Sant Cugat del Vallès Riverside",
+      "latitude": 41.420918,
+      "longitude": 2.079955,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1002"
+    },
+    {
+      "name": "ZARA Lleida Galeries",
+      "latitude": 41.675743,
+      "longitude": 0.509116,
+      "opening_hours": "M-F: 10-20\nS: 10-21",
+      "phone": "+34 97 1001"
+    },
+    {
+      "name": "ZARA Beijing City Center",
+      "latitude": 39.910811,
+      "longitude": 116.409631,
+      "opening_hours": "M-F: 10-22\nS: 10-22",
+      "phone": "+86 10 1001"
+    },
+    {
+      "name": "ZARA Paris Galleria",
+      "latitude": 48.884962,
+      "longitude": 2.301158,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+33 1 1001"
+    },
+    {
+      "name": "ZARA Bangkok Plaza",
+      "latitude": 13.742508,
+      "longitude": 100.566232,
+      "opening_hours": "M-F: 10-22\nS: 10-22",
+      "phone": "+66 2 1001"
+    },
+    {
+      "name": "ZARA L'Hospitalet de Llobregat Riverside",
+      "latitude": 41.447858,
+      "longitude": 2.044046,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1003"
+    },
+    {
+      "name": "ZARA Jakarta Central",
+      "latitude": -6.189498,
+      "longitude": 106.78325,
+      "opening_hours": "M-F: 10-22\nS: 10-22",
+      "phone": "+62 21 1001"
+    },
+    {
+      "name": "ZARA Badalona Downtown",
+      "latitude": 41.454097,
+      "longitude": 2.296462,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1004"
+    },
+    {
+      "name": "ZARA L'Hospitalet de Llobregat Main Street",
+      "latitude": 41.315797,
+      "longitude": 2.139788,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1005"
+    },
+    {
+      "name": "ZARA Bangkok Downtown",
+      "latitude": 13.725091,
+      "longitude": 100.484594,
+      "opening_hours": "M-F: 10-22\nS: 10-22",
+      "phone": "+66 2 1002"
+    },
+    {
+      "name": "ZARA Riyadh Downtown",
+      "latitude": 24.750803,
+      "longitude": 46.691474,
+      "opening_hours": "M-F: 10-22\nS: 10-23",
+      "phone": "+966 11 1001"
+    },
+    {
+      "name": "ZARA Lleida Flagship",
+      "latitude": 41.648315,
+      "longitude": 0.692885,
+      "opening_hours": "M-F: 10-20\nS: 10-21",
+      "phone": "+34 97 1002"
+    },
+    {
+      "name": "ZARA Athens Station",
+      "latitude": 37.943524,
+      "longitude": 23.814471,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+30 21 1001"
+    },
+    {
+      "name": "ZARA Lleida Downtown",
+      "latitude": 41.611235,
+      "longitude": 0.595706,
+      "opening_hours": "M-F: 10-20\nS: 10-21",
+      "phone": "+34 97 1003"
+    },
+    {
+      "name": "ZARA Johannesburg Central",
+      "latitude": -26.266814,
+      "longitude": 27.948528,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+27 11 1001"
+    },
+    {
+      "name": "ZARA Cape Town Waterfront",
+      "latitude": -33.903169,
+      "longitude": 18.493301,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+27 21 1001"
+    },
+    {
+      "name": "ZARA L'Hospitalet de Llobregat City Center",
+      "latitude": 41.309489,
+      "longitude": 2.143332,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1006"
+    },
+    {
+      "name": "ZARA Osaka Mall",
+      "latitude": 34.612384,
+      "longitude": 135.605848,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+81 6 1001"
+    },
+    {
+      "name": "ZARA Badalona Downtown 2",
+      "latitude": 41.386341,
+      "longitude": 2.148477,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1007"
+    },
+    {
+      "name": "ZARA Melbourne Market Square",
+      "latitude": -37.751529,
+      "longitude": 145.058602,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+61 3 1001"
+    },
+    {
+      "name": "ZARA Barcelona Galleria",
+      "latitude": 41.435013,
+      "longitude": 2.168345,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1008"
+    },
+    {
+      "name": "ZARA Dublin Central",
+      "latitude": 53.358256,
+      "longitude": -6.291933,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+353 1 1001"
+    },
+    {
+      "name": "ZARA Santa Coloma de Gramenet Avenue",
+      "latitude": 41.398687,
+      "longitude": 2.145888,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1009"
+    },
+    {
+      "name": "ZARA Sant Cugat del Vallès Riverside 2",
+      "latitude": 41.489258,
+      "longitude": 2.200204,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1010"
+    },
+    {
+      "name": "ZARA Vienna Main Street",
+      "latitude": 48.175103,
+      "longitude": 16.260646,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+43 1 1001"
+    },
+    {
+      "name": "ZARA Vancouver Flagship",
+      "latitude": 49.359878,
+      "longitude": -123.246617,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+1 604 1002"
+    },
+    {
+      "name": "ZARA Seville Galleria",
+      "latitude": 37.357288,
+      "longitude": -6.052434,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 95 1001"
+    },
+    {
+      "name": "ZARA Malaga City Center",
+      "latitude": 36.670556,
+      "longitude": -4.421727,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 95 1002"
+    },
+    {
+      "name": "ZARA Berlin City Center",
+      "latitude": 52.605598,
+      "longitude": 13.286634,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+49 30 1001"
+    },
+    {
+      "name": "ZARA Terrassa Flagship",
+      "latitude": 41.609616,
+      "longitude": 1.922869,
+      "opening_hours": "M-F: 10-21\nS: 10-21",
+      "phone": "+34 93 1011"
+    },
+    {
+      "name": "ZARA L'Hospitalet de Llobregat Market Square",
+      "latitude": 41.38858,
+      "longitude": 2.160036,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1012"
+    },
+    {
+      "name": "ZARA Sabadell Downtown",
+      "latitude": 41.485773,
+      "longitude": 2.113697,
+      "opening_hours": "M-F: 10-21\nS: 10-21",
+      "phone": "+34 93 1013"
+    },
+    {
+      "name": "ZARA L'Hospitalet de Llobregat Plaza",
+      "latitude": 41.36382,
+      "longitude": 2.02452,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1014"
+    },
+    {
+      "name": "ZARA Lleida Galeries 2",
+      "latitude": 41.568169,
+      "longitude": 0.633681,
+      "opening_hours": "M-F: 10-20\nS: 10-21",
+      "phone": "+34 97 1004"
+    },
+    {
+      "name": "ZARA Girona Shopping Center",
+      "latitude": 41.92609,
+      "longitude": 2.829458,
+      "opening_hours": "M-F: 10-20\nS: 10-21",
+      "phone": "+34 97 1005"
+    },
+    {
+      "name": "ZARA Toronto High Street",
+      "latitude": 43.621537,
+      "longitude": -79.443959,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+1 416 1001"
+    },
+    {
+      "name": "ZARA Mumbai Waterfront",
+      "latitude": 19.038526,
+      "longitude": 72.938411,
+      "opening_hours": "M-F: 10-22\nS: 10-22",
+      "phone": "+91 22 1001"
+    },
+    {
+      "name": "ZARA Rio de Janeiro Downtown",
+      "latitude": -22.846652,
+      "longitude": -43.191577,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+55 21 1002"
+    },
+    {
+      "name": "ZARA São Paulo Mall",
+      "latitude": -23.460794,
+      "longitude": -46.57476,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+55 11 1001"
+    },
+    {
+      "name": "ZARA Amsterdam High Street",
+      "latitude": 52.319381,
+      "longitude": 4.821419,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+31 20 1001"
+    },
+    {
+      "name": "ZARA Manchester Galleria",
+      "latitude": 53.466226,
+      "longitude": -2.210387,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+44 16 1001"
+    },
+    {
+      "name": "ZARA Lima City Center",
+      "latitude": -12.052171,
+      "longitude": -77.117477,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+51 1 1001"
+    },
+    {
+      "name": "ZARA Lima Downtown",
+      "latitude": -12.04362,
+      "longitude": -76.980524,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+51 1 1002"
+    },
+    {
+      "name": "ZARA Monterrey Shopping Center",
+      "latitude": 25.719977,
+      "longitude": -100.296903,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+52 81 1002"
+    },
+    {
+      "name": "ZARA Riyadh Riverside",
+      "latitude": 24.769287,
+      "longitude": 46.590444,
+      "opening_hours": "M-F: 10-22\nS: 10-23",
+      "phone": "+966 11 1002"
+    },
+    {
+      "name": "ZARA New York Fashion District",
+      "latitude": 40.794656,
+      "longitude": -74.104947,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+1 212 1001"
+    },
+    {
+      "name": "ZARA Santa Coloma de Gramenet Plaza",
+      "latitude": 41.432727,
+      "longitude": 2.316183,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1015"
+    },
+    {
+      "name": "ZARA Buenos Aires Central",
+      "latitude": -34.648412,
+      "longitude": -58.36025,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+54 11 1001"
+    },
+    {
+      "name": "ZARA Copenhagen Old Town",
+      "latitude": 55.674667,
+      "longitude": 12.430502,
+      "opening_hours": "M-F: 10-20\nS: 10-20",
+      "phone": "+45 33 1001"
+    },
+    {
+      "name": "ZARA Mataró Market Square",
+      "latitude": 41.473634,
+      "longitude": 2.350421,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1016"
+    },
+    {
+      "name": "ZARA Mataró Flagship",
+      "latitude": 41.579955,
+      "longitude": 2.460271,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1017"
+    },
+    {
+      "name": "ZARA Hong Kong Old Town",
+      "latitude": 22.404564,
+      "longitude": 114.186697,
+      "opening_hours": "M-F: 10-22\nS: 10-22",
+      "phone": "+852 2 1001"
+    },
+    {
+      "name": "ZARA Santa Coloma de Gramenet Old Town",
+      "latitude": 41.448337,
+      "longitude": 2.142322,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1018"
+    },
+    {
+      "name": "ZARA Monterrey High Street",
+      "latitude": 25.683304,
+      "longitude": -100.383572,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+52 81 1003"
+    },
+    {
+      "name": "ZARA Badalona Plaza",
+      "latitude": 41.397866,
+      "longitude": 2.302576,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1019"
+    },
+    {
+      "name": "ZARA Santiago Avenue",
+      "latitude": -33.519873,
+      "longitude": -70.609342,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+56 2 1001"
+    },
+    {
+      "name": "ZARA Rome Fashion District",
+      "latitude": 41.969535,
+      "longitude": 12.418307,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+39 06 1001"
+    },
+    {
+      "name": "ZARA Lisbon Boulevard",
+      "latitude": 38.711568,
+      "longitude": -9.026352,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+351 21 1001"
+    },
+    {
+      "name": "ZARA Terrassa Flagship 2",
+      "latitude": 41.512149,
+      "longitude": 1.912702,
+      "opening_hours": "M-F: 10-21\nS: 10-21",
+      "phone": "+34 93 1020"
+    },
+    {
+      "name": "ZARA Milan Main Street",
+      "latitude": 45.427811,
+      "longitude": 9.226524,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+39 02 1001"
+    },
+    {
+      "name": "ZARA Zaragoza Galeries",
+      "latitude": 41.654399,
+      "longitude": -0.788142,
+      "opening_hours": "M-F: 10-21\nS: 10-21",
+      "phone": "+34 97 1006"
+    },
+    {
+      "name": "ZARA Sant Cugat del Vallès Fashion District",
+      "latitude": 41.498331,
+      "longitude": 2.19184,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1021"
+    },
+    {
+      "name": "ZARA Copenhagen Fashion District",
+      "latitude": 55.675489,
+      "longitude": 12.523488,
+      "opening_hours": "M-F: 10-20\nS: 10-20",
+      "phone": "+45 33 1002"
+    },
+    {
+      "name": "ZARA Sydney City Center",
+      "latitude": -33.829747,
+      "longitude": 151.223561,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+61 2 1001"
+    },
+    {
+      "name": "ZARA Athens City Center",
+      "latitude": 38.07101,
+      "longitude": 23.787349,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+30 21 1002"
+    },
+    {
+      "name": "ZARA Monterrey Fashion District",
+      "latitude": 25.598556,
+      "longitude": -100.384049,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+52 81 1004"
+    },
+    {
+      "name": "ZARA Cairo Downtown",
+      "latitude": 29.997734,
+      "longitude": 31.160652,
+      "opening_hours": "M-F: 10-22\nS: 10-23",
+      "phone": "+20 2 1001"
+    },
+    {
+      "name": "ZARA Dubai Market Square",
+      "latitude": 25.220358,
+      "longitude": 55.241709,
+      "opening_hours": "M-F: 10-22\nS: 10-23",
+      "phone": "+971 4 1001"
+    },
+    {
+      "name": "ZARA Badalona Avenue",
+      "latitude": 41.381692,
+      "longitude": 2.35785,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1022"
+    },
+    {
+      "name": "ZARA Berlin Mall",
+      "latitude": 52.59098,
+      "longitude": 13.396309,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+49 30 1002"
+    },
+    {
+      "name": "ZARA São Paulo Riverside",
+      "latitude": -23.535555,
+      "longitude": -46.710848,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+55 11 1002"
+    },
+    {
+      "name": "ZARA Valencia Shopping Center",
+      "latitude": 39.389395,
+      "longitude": -0.420904,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 96 1001"
+    },
+    {
+      "name": "ZARA Tarragona Downtown",
+      "latitude": 41.13119,
+      "longitude": 1.266706,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 97 1007"
+    },
+    {
+      "name": "ZARA Zaragoza Flagship",
+      "latitude": 41.587578,
+      "longitude": -0.856412,
+      "opening_hours": "M-F: 10-21\nS: 10-21",
+      "phone": "+34 97 1008"
+    },
+    {
+      "name": "ZARA São Paulo Fashion District",
+      "latitude": -23.573746,
+      "longitude": -46.620537,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+55 11 1003"
+    },
+    {
+      "name": "ZARA Munich Fashion District",
+      "latitude": 48.156959,
+      "longitude": 11.490591,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+49 89 1001"
+    },
+    {
+      "name": "ZARA Auckland Riverside",
+      "latitude": -36.800098,
+      "longitude": 174.725818,
+      "opening_hours": "M-F: 10-20\nS: 10-21",
+      "phone": "+64 9 1001"
+    },
+    {
+      "name": "ZARA Marseille Station",
+      "latitude": 43.258459,
+      "longitude": 5.35051,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+33 4 1001"
+    },
+    {
+      "name": "ZARA Lima Market Square",
+      "latitude": -11.962905,
+      "longitude": -77.082177,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+51 1 1003"
+    },
+    {
+      "name": "ZARA Girona Waterfront",
+      "latitude": 41.96098,
+      "longitude": 2.925664,
+      "opening_hours": "M-F: 10-20\nS: 10-21",
+      "phone": "+34 97 1009"
+    },
+    {
+      "name": "ZARA Lleida Downtown 2",
+      "latitude": 41.578658,
+      "longitude": 0.73161,
+      "opening_hours": "M-F: 10-20\nS: 10-21",
+      "phone": "+34 97 1010"
+    },
+    {
+      "name": "ZARA Delhi Mall",
+      "latitude": 28.59569,
+      "longitude": 77.224952,
+      "opening_hours": "M-F: 10-22\nS: 10-22",
+      "phone": "+91 11 1001"
+    },
+    {
+      "name": "ZARA Sydney Plaza",
+      "latitude": -33.916427,
+      "longitude": 151.146996,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+61 2 1002"
+    },
+    {
+      "name": "ZARA Badalona Plaza 2",
+      "latitude": 41.465594,
+      "longitude": 2.338542,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1023"
+    },
+    {
+      "name": "ZARA Marseille Waterfront",
+      "latitude": 43.353237,
+      "longitude": 5.48391,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+33 4 1002"
+    },
+    {
+      "name": "ZARA Girona Station",
+      "latitude": 42.028018,
+      "longitude": 2.827178,
+      "opening_hours": "M-F: 10-20\nS: 10-21",
+      "phone": "+34 97 1011"
+    },
+    {
+      "name": "ZARA Monterrey Downtown",
+      "latitude": 25.773365,
+      "longitude": -100.307151,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+52 81 1005"
+    },
+    {
+      "name": "ZARA Madrid Downtown",
+      "latitude": 40.499037,
+      "longitude": -3.628218,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 91 1001"
+    },
+    {
+      "name": "ZARA Toronto Riverside",
+      "latitude": 43.624736,
+      "longitude": -79.460774,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+1 416 1002"
+    },
+    {
+      "name": "ZARA Seville Main Street",
+      "latitude": 37.351691,
+      "longitude": -5.874743,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 95 1003"
+    },
+    {
+      "name": "ZARA Prague Main Street",
+      "latitude": 50.148954,
+      "longitude": 14.458234,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+420 2 1001"
+    },
+    {
+      "name": "ZARA Paris High Street",
+      "latitude": 48.767146,
+      "longitude": 2.223593,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+33 1 1002"
+    },
+    {
+      "name": "ZARA Santa Coloma de Gramenet Galeries",
+      "latitude": 41.499868,
+      "longitude": 2.201231,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1024"
+    },
+    {
+      "name": "ZARA Zaragoza Galleria",
+      "latitude": 41.738,
+      "longitude": -0.902522,
+      "opening_hours": "M-F: 10-21\nS: 10-21",
+      "phone": "+34 97 1012"
+    },
+    {
+      "name": "ZARA Tarragona High Street",
+      "latitude": 41.144334,
+      "longitude": 1.198925,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 97 1013"
+    },
+    {
+      "name": "ZARA Riyadh Central",
+      "latitude": 24.730658,
+      "longitude": 46.699449,
+      "opening_hours": "M-F: 10-22\nS: 10-23",
+      "phone": "+966 11 1003"
+    },
+    {
+      "name": "ZARA Abu Dhabi Main Street",
+      "latitude": 24.508102,
+      "longitude": 54.452102,
+      "opening_hours": "M-F: 10-22\nS: 10-23",
+      "phone": "+971 2 1001"
+    },
+    {
+      "name": "ZARA San Francisco Riverside",
+      "latitude": 37.812822,
+      "longitude": -122.33994,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+1 415 1001"
+    },
+    {
+      "name": "ZARA Mataró Main Street",
+      "latitude": 41.575785,
+      "longitude": 2.462251,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1025"
+    },
+    {
+      "name": "ZARA Delhi Market Square",
+      "latitude": 28.5637,
+      "longitude": 77.226014,
+      "opening_hours": "M-F: 10-22\nS: 10-22",
+      "phone": "+91 11 1002"
+    },
+    {
+      "name": "ZARA Budapest Galeries",
+      "latitude": 47.496282,
+      "longitude": 19.033092,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+36 1 1001"
+    },
+    {
+      "name": "ZARA Sydney City Center 2",
+      "latitude": -33.807261,
+      "longitude": 151.296067,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+61 2 1003"
+    },
+    {
+      "name": "ZARA Warsaw Shopping Center",
+      "latitude": 52.143922,
+      "longitude": 21.132587,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+48 22 1001"
+    },
+    {
+      "name": "ZARA New York Galeries",
+      "latitude": 40.731059,
+      "longitude": -74.044605,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+1 212 1002"
+    },
+    {
+      "name": "ZARA Barcelona Downtown",
+      "latitude": 41.35627,
+      "longitude": 2.12312,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1026"
+    },
+    {
+      "name": "ZARA Munich Market Square",
+      "latitude": 48.167115,
+      "longitude": 11.565129,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+49 89 1002"
+    },
+    {
+      "name": "ZARA Abu Dhabi Galeries",
+      "latitude": 24.399854,
+      "longitude": 54.317735,
+      "opening_hours": "M-F: 10-22\nS: 10-23",
+      "phone": "+971 2 1002"
+    },
+    {
+      "name": "ZARA Terrassa Central",
+      "latitude": 41.593961,
+      "longitude": 2.099881,
+      "opening_hours": "M-F: 10-21\nS: 10-21",
+      "phone": "+34 93 1027"
+    },
+    {
+      "name": "ZARA Bilbao Station",
+      "latitude": 43.172921,
+      "longitude": -3.043646,
+      "opening_hours": "M-F: 10-20\nS: 10-21",
+      "phone": "+34 94 1001"
+    },
+    {
+      "name": "ZARA Lleida Galeries 3",
+      "latitude": 41.573469,
+      "longitude": 0.691581,
+      "opening_hours": "M-F: 10-20\nS: 10-21",
+      "phone": "+34 97 1014"
+    },
+    {
+      "name": "ZARA Barcelona Galeries",
+      "latitude": 41.438807,
+      "longitude": 2.153959,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1028"
+    },
+    {
+      "name": "ZARA Sant Cugat del Vallès City Center",
+      "latitude": 41.49179,
+      "longitude": 2.092352,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1029"
+    },
+    {
+      "name": "ZARA Lleida Galeries 4",
+      "latitude": 41.584436,
+      "longitude": 0.605988,
+      "opening_hours": "M-F: 10-20\nS: 10-21",
+      "phone": "+34 97 1015"
+    },
+    {
+      "name": "ZARA Sant Cugat del Vallès High Street",
+      "latitude": 41.521133,
+      "longitude": 2.118255,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1030"
+    },
+    {
+      "name": "ZARA Melbourne Avenue",
+      "latitude": -37.817567,
+      "longitude": 144.980814,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+61 3 1002"
+    },
+    {
+      "name": "ZARA Dublin Boulevard",
+      "latitude": 53.282623,
+      "longitude": -6.396292,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+353 1 1002"
+    },
+    {
+      "name": "ZARA Badalona Boulevard",
+      "latitude": 41.462572,
+      "longitude": 2.250877,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1031"
+    },
+    {
+      "name": "ZARA Sant Cugat del Vallès Shopping Center",
+      "latitude": 41.497362,
+      "longitude": 1.99844,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1032"
+    },
+    {
+      "name": "ZARA Girona Main Street",
+      "latitude": 42.001769,
+      "longitude": 2.852253,
+      "opening_hours": "M-F: 10-20\nS: 10-21",
+      "phone": "+34 97 1016"
+    },
+    {
+      "name": "ZARA Athens Boulevard",
+      "latitude": 38.06273,
+      "longitude": 23.690746,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+30 21 1003"
+    },
+    {
+      "name": "ZARA Bangkok Galleria",
+      "latitude": 13.821736,
+      "longitude": 100.580329,
+      "opening_hours": "M-F: 10-22\nS: 10-22",
+      "phone": "+66 2 1003"
+    },
+    {
+      "name": "ZARA Bangkok Flagship",
+      "latitude": 13.825667,
+      "longitude": 100.57057,
+      "opening_hours": "M-F: 10-22\nS: 10-22",
+      "phone": "+66 2 1004"
+    },
+    {
+      "name": "ZARA Tokyo Fashion District",
+      "latitude": 35.671946,
+      "longitude": 139.650792,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+81 3 1001"
+    },
+    {
+      "name": "ZARA Badalona Main Street",
+      "latitude": 41.508122,
+      "longitude": 2.19082,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1033"
+    },
+    {
+      "name": "ZARA L'Hospitalet de Llobregat Plaza 2",
+      "latitude": 41.345197,
+      "longitude": 2.117295,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1034"
+    },
+    {
+      "name": "ZARA Hamburg Galleria",
+      "latitude": 53.603019,
+      "longitude": 9.855403,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+49 40 1001"
+    },
+    {
+      "name": "ZARA Santa Coloma de Gramenet Downtown",
+      "latitude": 41.412913,
+      "longitude": 2.165874,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1035"
+    },
+    {
+      "name": "ZARA Porto City Center",
+      "latitude": 41.119439,
+      "longitude": -8.631622,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+351 22 1001"
+    },
+    {
+      "name": "ZARA Istanbul Riverside",
+      "latitude": 40.979798,
+      "longitude": 29.079306,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+90 212 1001"
+    },
+    {
+      "name": "ZARA Tarragona Galeries",
+      "latitude": 41.11509,
+      "longitude": 1.325766,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 97 1017"
+    },
+    {
+      "name": "ZARA Berlin Galleria",
+      "latitude": 52.568387,
+      "longitude": 13.322336,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+49 30 1003"
+    },
+    {
+      "name": "ZARA Seville Main Street 2",
+      "latitude": 37.449009,
+      "longitude": -5.91858,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 95 1004"
+    },
+    {
+      "name": "ZARA Berlin Flagship",
+      "latitude": 52.430712,
+      "longitude": 13.452901,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+49 30 1004"
+    },
+    {
+      "name": "ZARA Marseille Shopping Center",
+      "latitude": 43.331996,
+      "longitude": 5.408165,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+33 4 1003"
+    },
+    {
+      "name": "ZARA Copenhagen Central",
+      "latitude": 55.629199,
+      "longitude": 12.428988,
+      "opening_hours": "M-F: 10-20\nS: 10-20",
+      "phone": "+45 33 1003"
+    },
+    {
+      "name": "ZARA Terrassa Fashion District",
+      "latitude": 41.511467,
+      "longitude": 2.108999,
+      "opening_hours": "M-F: 10-21\nS: 10-21",
+      "phone": "+34 93 1036"
+    },
+    {
+      "name": "ZARA Cape Town Downtown",
+      "latitude": -33.934428,
+      "longitude": 18.473053,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+27 21 1002"
+    },
+    {
+      "name": "ZARA Bilbao Galleria",
+      "latitude": 43.333066,
+      "longitude": -2.940789,
+      "opening_hours": "M-F: 10-20\nS: 10-21",
+      "phone": "+34 94 1002"
+    },
+    {
+      "name": "ZARA Lima Old Town",
+      "latitude": -12.09765,
+      "longitude": -76.957458,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+51 1 1004"
+    },
+    {
+      "name": "ZARA Miami Market Square",
+      "latitude": 25.826995,
+      "longitude": -80.265057,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+1 305 1001"
+    },
+    {
+      "name": "ZARA Sant Cugat del Vallès Mall",
+      "latitude": 41.553142,
+      "longitude": 2.118676,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1037"
+    },
+    {
+      "name": "ZARA Marseille Avenue",
+      "latitude": 43.217214,
+      "longitude": 5.440358,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+33 4 1004"
+    },
+    {
+      "name": "ZARA Santa Coloma de Gramenet Waterfront",
+      "latitude": 41.38468,
+      "longitude": 2.144443,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1038"
+    },
+    {
+      "name": "ZARA Seville Boulevard",
+      "latitude": 37.3866,
+      "longitude": -6.018774,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 95 1005"
+    },
+    {
+      "name": "ZARA Beijing Market Square",
+      "latitude": 39.969299,
+      "longitude": 116.392714,
+      "opening_hours": "M-F: 10-22\nS: 10-22",
+      "phone": "+86 10 1002"
+    },
+    {
+      "name": "ZARA Manila Mall",
+      "latitude": 14.66477,
+      "longitude": 120.96001,
+      "opening_hours": "M-F: 10-22\nS: 10-22",
+      "phone": "+63 2 1001"
+    },
+    {
+      "name": "ZARA Sabadell Shopping Center",
+      "latitude": 41.539778,
+      "longitude": 2.115824,
+      "opening_hours": "M-F: 10-21\nS: 10-21",
+      "phone": "+34 93 1039"
+    },
+    {
+      "name": "ZARA Los Angeles Flagship",
+      "latitude": 33.994734,
+      "longitude": -118.266169,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+1 323 1001"
+    },
+    {
+      "name": "ZARA Madrid Galeries",
+      "latitude": 40.44695,
+      "longitude": -3.744905,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 91 1002"
+    },
+    {
+      "name": "ZARA Vienna Galeries",
+      "latitude": 48.255243,
+      "longitude": 16.312295,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+43 1 1002"
+    },
+    {
+      "name": "ZARA Santa Coloma de Gramenet Avenue 2",
+      "latitude": 41.494074,
+      "longitude": 2.222437,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1040"
+    },
+    {
+      "name": "ZARA Terrassa Flagship 3",
+      "latitude": 41.481457,
+      "longitude": 1.993445,
+      "opening_hours": "M-F: 10-21\nS: 10-21",
+      "phone": "+34 93 1041"
+    },
+    {
+      "name": "ZARA London Main Street",
+      "latitude": 51.442149,
+      "longitude": -0.203504,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+44 20 1001"
+    },
+    {
+      "name": "ZARA San Francisco Riverside 2",
+      "latitude": 37.828949,
+      "longitude": -122.344001,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+1 415 1002"
+    },
+    {
+      "name": "ZARA Lima Boulevard",
+      "latitude": -12.073929,
+      "longitude": -77.116864,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+51 1 1005"
+    },
+    {
+      "name": "ZARA Madrid City Center",
+      "latitude": 40.436198,
+      "longitude": -3.747468,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 91 1003"
+    },
+    {
+      "name": "ZARA Marseille Flagship",
+      "latitude": 43.380929,
+      "longitude": 5.285803,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+33 4 1005"
+    },
+    {
+      "name": "ZARA Lleida Riverside",
+      "latitude": 41.528706,
+      "longitude": 0.656784,
+      "opening_hours": "M-F: 10-20\nS: 10-21",
+      "phone": "+34 97 1018"
+    },
+    {
+      "name": "ZARA Malaga High Street",
+      "latitude": 36.677632,
+      "longitude": -4.468568,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 95 1006"
+    },
+    {
+      "name": "ZARA Zaragoza Galleria 2",
+      "latitude": 41.617938,
+      "longitude": -0.913761,
+      "opening_hours": "M-F: 10-21\nS: 10-21",
+      "phone": "+34 97 1019"
+    },
+    {
+      "name": "ZARA Santa Coloma de Gramenet Fashion District",
+      "latitude": 41.440132,
+      "longitude": 2.181126,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1042"
+    },
+    {
+      "name": "ZARA Terrassa Shopping Center",
+      "latitude": 41.556287,
+      "longitude": 1.998707,
+      "opening_hours": "M-F: 10-21\nS: 10-21",
+      "phone": "+34 93 1043"
+    },
+    {
+      "name": "ZARA Reus Plaza",
+      "latitude": 41.153491,
+      "longitude": 1.171591,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 97 1020"
+    },
+    {
+      "name": "ZARA Seville Boulevard 2",
+      "latitude": 37.450113,
+      "longitude": -5.886654,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 95 1007"
+    },
+    {
+      "name": "ZARA Doha City Center",
+      "latitude": 25.346023,
+      "longitude": 51.523146,
+      "opening_hours": "M-F: 10-22\nS: 10-23",
+      "phone": "+974 4 1002"
+    },
+    {
+      "name": "ZARA Rome Old Town",
+      "latitude": 41.883799,
+      "longitude": 12.534962,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+39 06 1002"
+    },
+    {
+      "name": "ZARA Lleida Galleria",
+      "latitude": 41.667029,
+      "longitude": 0.706532,
+      "opening_hours": "M-F: 10-20\nS: 10-21",
+      "phone": "+34 97 1021"
+    },
+    {
+      "name": "ZARA L'Hospitalet de Llobregat Avenue",
+      "latitude": 41.308165,
+      "longitude": 2.19638,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1044"
+    },
+    {
+      "name": "ZARA Terrassa Avenue",
+      "latitude": 41.626349,
+      "longitude": 2.042523,
+      "opening_hours": "M-F: 10-21\nS: 10-21",
+      "phone": "+34 93 1045"
+    },
+    {
+      "name": "ZARA Seville Mall",
+      "latitude": 37.306873,
+      "longitude": -5.88311,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 95 1008"
+    },
+    {
+      "name": "ZARA Terrassa City Center",
+      "latitude": 41.635893,
+      "longitude": 1.994978,
+      "opening_hours": "M-F: 10-21\nS: 10-21",
+      "phone": "+34 93 1046"
+    },
+    {
+      "name": "ZARA Zaragoza Boulevard",
+      "latitude": 41.606908,
+      "longitude": -1.008274,
+      "opening_hours": "M-F: 10-21\nS: 10-21",
+      "phone": "+34 97 1022"
+    },
+    {
+      "name": "ZARA Paris City Center",
+      "latitude": 48.878881,
+      "longitude": 2.257795,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+33 1 1003"
+    },
+    {
+      "name": "ZARA Amsterdam Waterfront",
+      "latitude": 52.347445,
+      "longitude": 4.773887,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+31 20 1002"
+    },
+    {
+      "name": "ZARA Badalona Old Town",
+      "latitude": 41.506931,
+      "longitude": 2.15371,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1047"
+    },
+    {
+      "name": "ZARA Mexico City Main Street",
+      "latitude": 19.496102,
+      "longitude": -99.148606,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+52 55 1001"
+    },
+    {
+      "name": "ZARA Toronto Shopping Center",
+      "latitude": 43.698572,
+      "longitude": -79.396388,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+1 416 1003"
+    },
+    {
+      "name": "ZARA Lleida Fashion District",
+      "latitude": 41.594812,
+      "longitude": 0.548311,
+      "opening_hours": "M-F: 10-20\nS: 10-21",
+      "phone": "+34 97 1023"
+    },
+    {
+      "name": "ZARA Badalona Market Square",
+      "latitude": 41.378065,
+      "longitude": 2.364282,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1048"
+    },
+    {
+      "name": "ZARA Mexico City Old Town",
+      "latitude": 19.38784,
+      "longitude": -99.04452,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+52 55 1002"
+    },
+    {
+      "name": "ZARA Mumbai Shopping Center",
+      "latitude": 19.10347,
+      "longitude": 72.913823,
+      "opening_hours": "M-F: 10-22\nS: 10-22",
+      "phone": "+91 22 1002"
+    },
+    {
+      "name": "ZARA Sabadell Market Square",
+      "latitude": 41.591715,
+      "longitude": 1.995556,
+      "opening_hours": "M-F: 10-21\nS: 10-21",
+      "phone": "+34 93 1049"
+    },
+    {
+      "name": "ZARA Santiago Galleria",
+      "latitude": -33.516029,
+      "longitude": -70.575509,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+56 2 1002"
+    },
+    {
+      "name": "ZARA Tokyo Downtown",
+      "latitude": 35.62607,
+      "longitude": 139.728732,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+81 3 1002"
+    },
+    {
+      "name": "ZARA Zurich Central",
+      "latitude": 47.426008,
+      "longitude": 8.611437,
+      "opening_hours": "M-F: 10-20\nS: 10-20",
+      "phone": "+41 44 1001"
+    },
+    {
+      "name": "ZARA Barcelona Riverside",
+      "latitude": 41.401136,
+      "longitude": 2.175824,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1050"
+    },
+    {
+      "name": "ZARA Terrassa Main Street",
+      "latitude": 41.582793,
+      "longitude": 2.014239,
+      "opening_hours": "M-F: 10-21\nS: 10-21",
+      "phone": "+34 93 1051"
+    },
+    {
+      "name": "ZARA Terrassa Boulevard",
+      "latitude": 41.558351,
+      "longitude": 2.075087,
+      "opening_hours": "M-F: 10-21\nS: 10-21",
+      "phone": "+34 93 1052"
+    },
+    {
+      "name": "ZARA New York Riverside",
+      "latitude": 40.675745,
+      "longitude": -73.953731,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+1 212 1003"
+    },
+    {
+      "name": "ZARA Mumbai Avenue",
+      "latitude": 19.146489,
+      "longitude": 72.787277,
+      "opening_hours": "M-F: 10-22\nS: 10-22",
+      "phone": "+91 22 1003"
+    },
+    {
+      "name": "ZARA Sant Cugat del Vallès Fashion District 2",
+      "latitude": 41.547343,
+      "longitude": 2.118197,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1053"
+    },
+    {
+      "name": "ZARA Prague Fashion District",
+      "latitude": 49.986756,
+      "longitude": 14.38766,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+420 2 1002"
+    },
+    {
+      "name": "ZARA Melbourne Galeries",
+      "latitude": -37.87463,
+      "longitude": 144.880018,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+61 3 1003"
+    },
+    {
+      "name": "ZARA Bangkok Galeries",
+      "latitude": 13.780494,
+      "longitude": 100.548124,
+      "opening_hours": "M-F: 10-22\nS: 10-22",
+      "phone": "+66 2 1005"
+    },
+    {
+      "name": "ZARA Tarragona Mall",
+      "latitude": 41.040107,
+      "longitude": 1.135154,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 97 1024"
+    },
+    {
+      "name": "ZARA Reus Avenue",
+      "latitude": 41.202314,
+      "longitude": 1.101459,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 97 1025"
+    },
+    {
+      "name": "ZARA Los Angeles Old Town",
+      "latitude": 34.009388,
+      "longitude": -118.267696,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+1 323 1002"
+    },
+    {
+      "name": "ZARA Berlin Waterfront",
+      "latitude": 52.574572,
+      "longitude": 13.294107,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+49 30 1005"
+    },
+    {
+      "name": "ZARA Mataró Downtown",
+      "latitude": 41.604108,
+      "longitude": 2.383702,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1054"
+    },
+    {
+      "name": "ZARA Hamburg Market Square",
+      "latitude": 53.484904,
+      "longitude": 10.00536,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+49 40 1002"
+    },
+    {
+      "name": "ZARA Lleida Boulevard",
+      "latitude": 41.62755,
+      "longitude": 0.726152,
+      "opening_hours": "M-F: 10-20\nS: 10-21",
+      "phone": "+34 97 1026"
+    },
+    {
+      "name": "ZARA Sabadell Mall",
+      "latitude": 41.556455,
+      "longitude": 2.101661,
+      "opening_hours": "M-F: 10-21\nS: 10-21",
+      "phone": "+34 93 1055"
+    },
+    {
+      "name": "ZARA Mexico City Riverside",
+      "latitude": 19.346266,
+      "longitude": -99.188226,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+52 55 1003"
+    },
+    {
+      "name": "ZARA Lleida Flagship 2",
+      "latitude": 41.699055,
+      "longitude": 0.508923,
+      "opening_hours": "M-F: 10-20\nS: 10-21",
+      "phone": "+34 97 1027"
+    },
+    {
+      "name": "ZARA Madrid Fashion District",
+      "latitude": 40.4658,
+      "longitude": -3.716462,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 91 1004"
+    },
+    {
+      "name": "ZARA Rome Waterfront",
+      "latitude": 41.825471,
+      "longitude": 12.467627,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+39 06 1003"
+    },
+    {
+      "name": "ZARA Lisbon High Street",
+      "latitude": 38.654267,
+      "longitude": -9.176431,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+351 21 1002"
+    },
+    {
+      "name": "ZARA Sabadell Station",
+      "latitude": 41.540749,
+      "longitude": 2.014696,
+      "opening_hours": "M-F: 10-21\nS: 10-21",
+      "phone": "+34 93 1056"
+    },
+    {
+      "name": "ZARA Seville Old Town",
+      "latitude": 37.387721,
+      "longitude": -5.885414,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 95 1009"
+    },
+    {
+      "name": "ZARA Manchester Riverside",
+      "latitude": 53.517344,
+      "longitude": -2.122905,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+44 16 1002"
+    },
+    {
+      "name": "ZARA Lima Boulevard 2",
+      "latitude": -11.963623,
+      "longitude": -77.047376,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+51 1 1006"
+    },
+    {
+      "name": "ZARA Cape Town Avenue",
+      "latitude": -33.924765,
+      "longitude": 18.517965,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+27 21 1003"
+    },
+    {
+      "name": "ZARA Copenhagen Market Square",
+      "latitude": 55.750919,
+      "longitude": 12.61334,
+      "opening_hours": "M-F: 10-20\nS: 10-20",
+      "phone": "+45 33 1004"
+    },
+    {
+      "name": "ZARA Mexico City Avenue",
+      "latitude": 19.469819,
+      "longitude": -99.083824,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+52 55 1004"
+    },
+    {
+      "name": "ZARA Berlin High Street",
+      "latitude": 52.455363,
+      "longitude": 13.47775,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+49 30 1006"
+    },
+    {
+      "name": "ZARA Badalona Boulevard 2",
+      "latitude": 41.467678,
+      "longitude": 2.323087,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1057"
+    },
+    {
+      "name": "ZARA Istanbul Flagship",
+      "latitude": 41.022174,
+      "longitude": 28.860774,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+90 212 1002"
+    },
+    {
+      "name": "ZARA Bangkok Market Square",
+      "latitude": 13.775481,
+      "longitude": 100.462789,
+      "opening_hours": "M-F: 10-22\nS: 10-22",
+      "phone": "+66 2 1006"
+    },
+    {
+      "name": "ZARA Zaragoza Waterfront",
+      "latitude": 41.589839,
+      "longitude": -0.774705,
+      "opening_hours": "M-F: 10-21\nS: 10-21",
+      "phone": "+34 97 1028"
+    },
+    {
+      "name": "ZARA Shanghai Galleria",
+      "latitude": 31.219778,
+      "longitude": 121.404737,
+      "opening_hours": "M-F: 10-22\nS: 10-22",
+      "phone": "+86 21 1001"
+    },
+    {
+      "name": "ZARA Badalona Riverside",
+      "latitude": 41.428391,
+      "longitude": 2.143655,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1058"
+    },
+    {
+      "name": "ZARA Reus Central",
+      "latitude": 41.233089,
+      "longitude": 1.052896,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 97 1029"
+    },
+    {
+      "name": "ZARA Lisbon Shopping Center",
+      "latitude": 38.768267,
+      "longitude": -9.11321,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+351 21 1003"
+    },
+    {
+      "name": "ZARA Mumbai Mall",
+      "latitude": 19.133918,
+      "longitude": 72.861975,
+      "opening_hours": "M-F: 10-22\nS: 10-22",
+      "phone": "+91 22 1004"
+    },
+    {
+      "name": "ZARA Sant Cugat del Vallès Waterfront",
+      "latitude": 41.483237,
+      "longitude": 2.093109,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1059"
+    },
+    {
+      "name": "ZARA Valencia Fashion District",
+      "latitude": 39.475573,
+      "longitude": -0.275071,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 96 1002"
+    },
+    {
+      "name": "ZARA Abu Dhabi Plaza",
+      "latitude": 24.41484,
+      "longitude": 54.40092,
+      "opening_hours": "M-F: 10-22\nS: 10-23",
+      "phone": "+971 2 1003"
+    },
+    {
+      "name": "ZARA London Boulevard",
+      "latitude": 51.579145,
+      "longitude": -0.212331,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+44 20 1002"
+    },
+    {
+      "name": "ZARA Tarragona Riverside",
+      "latitude": 41.035824,
+      "longitude": 1.318555,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 97 1030"
+    },
+    {
+      "name": "ZARA Terrassa Downtown",
+      "latitude": 41.574643,
+      "longitude": 2.068772,
+      "opening_hours": "M-F: 10-21\nS: 10-21",
+      "phone": "+34 93 1060"
+    },
+    {
+      "name": "ZARA Lisbon Main Street",
+      "latitude": 38.727403,
+      "longitude": -9.164898,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+351 21 1004"
+    },
+    {
+      "name": "ZARA Buenos Aires Galleria",
+      "latitude": -34.519598,
+      "longitude": -58.289115,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+54 11 1002"
+    },
+    {
+      "name": "ZARA Rio de Janeiro High Street",
+      "latitude": -22.842562,
+      "longitude": -43.114029,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+55 21 1003"
+    },
+    {
+      "name": "ZARA Lleida Flagship 3",
+      "latitude": 41.651212,
+      "longitude": 0.740651,
+      "opening_hours": "M-F: 10-20\nS: 10-21",
+      "phone": "+34 97 1031"
+    },
+    {
+      "name": "ZARA Dublin Flagship",
+      "latitude": 53.300023,
+      "longitude": -6.340672,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+353 1 1003"
+    },
+    {
+      "name": "ZARA Porto Station",
+      "latitude": 41.129901,
+      "longitude": -8.603165,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+351 22 1002"
+    },
+    {
+      "name": "ZARA Delhi High Street",
+      "latitude": 28.612218,
+      "longitude": 77.149781,
+      "opening_hours": "M-F: 10-22\nS: 10-22",
+      "phone": "+91 11 1003"
+    },
+    {
+      "name": "ZARA Bilbao Plaza",
+      "latitude": 43.253928,
+      "longitude": -2.985555,
+      "opening_hours": "M-F: 10-20\nS: 10-21",
+      "phone": "+34 94 1003"
+    },
+    {
+      "name": "ZARA Santa Coloma de Gramenet Waterfront 2",
+      "latitude": 41.511991,
+      "longitude": 2.093772,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1061"
+    },
+    {
+      "name": "ZARA Mataró Old Town",
+      "latitude": 41.480461,
+      "longitude": 2.542785,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1062"
+    },
+    {
+      "name": "ZARA Girona Riverside",
+      "latitude": 42.054259,
+      "longitude": 2.767485,
+      "opening_hours": "M-F: 10-20\nS: 10-21",
+      "phone": "+34 97 1032"
+    },
+    {
+      "name": "ZARA Malaga Avenue",
+      "latitude": 36.643097,
+      "longitude": -4.313476,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 95 1010"
+    },
+    {
+      "name": "ZARA Jakarta Downtown",
+      "latitude": -6.149504,
+      "longitude": 106.863028,
+      "opening_hours": "M-F: 10-22\nS: 10-22",
+      "phone": "+62 21 1002"
+    },
+    {
+      "name": "ZARA Sant Cugat del Vallès Shopping Center 2",
+      "latitude": 41.407972,
+      "longitude": 1.965146,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1063"
+    },
+    {
+      "name": "ZARA Cairo Station",
+      "latitude": 30.098562,
+      "longitude": 31.131668,
+      "opening_hours": "M-F: 10-22\nS: 10-23",
+      "phone": "+20 2 1002"
+    },
+    {
+      "name": "ZARA Tarragona Old Town",
+      "latitude": 41.124625,
+      "longitude": 1.36238,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 97 1033"
+    },
+    {
+      "name": "ZARA Girona Central",
+      "latitude": 41.987041,
+      "longitude": 2.860556,
+      "opening_hours": "M-F: 10-20\nS: 10-21",
+      "phone": "+34 97 1034"
+    },
+    {
+      "name": "ZARA Santa Coloma de Gramenet Fashion District 2",
+      "latitude": 41.483834,
+      "longitude": 2.112513,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1064"
+    },
+    {
+      "name": "ZARA Sant Cugat del Vallès Market Square",
+      "latitude": 41.508137,
+      "longitude": 2.147078,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1065"
+    },
+    {
+      "name": "ZARA Malaga Station",
+      "latitude": 36.706719,
+      "longitude": -4.376592,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 95 1011"
+    },
+    {
+      "name": "ZARA Malaga Market Square",
+      "latitude": 36.659027,
+      "longitude": -4.500289,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 95 1012"
+    },
+    {
+      "name": "ZARA Vienna Avenue",
+      "latitude": 48.217664,
+      "longitude": 16.318087,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+43 1 1003"
+    },
+    {
+      "name": "ZARA Abu Dhabi Galeries 2",
+      "latitude": 24.368169,
+      "longitude": 54.435207,
+      "opening_hours": "M-F: 10-22\nS: 10-23",
+      "phone": "+971 2 1004"
+    },
+    {
+      "name": "ZARA Girona Shopping Center 2",
+      "latitude": 41.908779,
+      "longitude": 2.849513,
+      "opening_hours": "M-F: 10-20\nS: 10-21",
+      "phone": "+34 97 1035"
+    },
+    {
+      "name": "ZARA Girona Central 2",
+      "latitude": 41.899305,
+      "longitude": 2.911211,
+      "opening_hours": "M-F: 10-20\nS: 10-21",
+      "phone": "+34 97 1036"
+    },
+    {
+      "name": "ZARA São Paulo Station",
+      "latitude": -23.608252,
+      "longitude": -46.561893,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+55 11 1004"
+    },
+    {
+      "name": "ZARA Dublin Station",
+      "latitude": 53.268612,
+      "longitude": -6.200959,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+353 1 1004"
+    },
+    {
+      "name": "ZARA Stockholm Waterfront",
+      "latitude": 59.376669,
+      "longitude": 18.134982,
+      "opening_hours": "M-F: 10-20\nS: 10-20",
+      "phone": "+46 8 1001"
+    },
+    {
+      "name": "ZARA Casablanca City Center",
+      "latitude": 33.634126,
+      "longitude": -7.486649,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+212 5 1001"
+    },
+    {
+      "name": "ZARA Vancouver Market Square",
+      "latitude": 49.311931,
+      "longitude": -123.257632,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+1 604 1003"
+    },
+    {
+      "name": "ZARA Dubai Mall",
+      "latitude": 25.171613,
+      "longitude": 55.226613,
+      "opening_hours": "M-F: 10-22\nS: 10-23",
+      "phone": "+971 4 1002"
+    },
+    {
+      "name": "ZARA L'Hospitalet de Llobregat Mall",
+      "latitude": 41.328374,
+      "longitude": 2.092174,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1066"
+    },
+    {
+      "name": "ZARA Santa Coloma de Gramenet Station",
+      "latitude": 41.536963,
+      "longitude": 2.135759,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1067"
+    },
+    {
+      "name": "ZARA Amsterdam Flagship",
+      "latitude": 52.389073,
+      "longitude": 4.881733,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+31 20 1003"
+    },
+    {
+      "name": "ZARA Lima Downtown 2",
+      "latitude": -12.021322,
+      "longitude": -77.100356,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+51 1 1007"
+    },
+    {
+      "name": "ZARA Santiago Fashion District",
+      "latitude": -33.447021,
+      "longitude": -70.653721,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+56 2 1003"
+    },
+    {
+      "name": "ZARA Brussels Mall",
+      "latitude": 50.76903,
+      "longitude": 4.224447,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+32 2 1001"
+    },
+    {
+      "name": "ZARA Badalona Galeries",
+      "latitude": 41.383065,
+      "longitude": 2.142376,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1068"
+    },
+    {
+      "name": "ZARA Bilbao High Street",
+      "latitude": 43.279669,
+      "longitude": -2.867237,
+      "opening_hours": "M-F: 10-20\nS: 10-21",
+      "phone": "+34 94 1004"
+    },
+    {
+      "name": "ZARA Nairobi Old Town",
+      "latitude": -1.323694,
+      "longitude": 36.785012,
+      "opening_hours": "M-F: 10-20\nS: 10-21",
+      "phone": "+254 20 1001"
+    },
+    {
+      "name": "ZARA Barcelona Plaza",
+      "latitude": 41.431574,
+      "longitude": 2.147847,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1069"
+    },
+    {
+      "name": "ZARA Monterrey City Center",
+      "latitude": 25.701752,
+      "longitude": -100.30685,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+52 81 1006"
+    },
+    {
+      "name": "ZARA Reus Fashion District",
+      "latitude": 41.118617,
+      "longitude": 1.067393,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 97 1037"
+    },
+    {
+      "name": "ZARA Badalona Plaza 3",
+      "latitude": 41.369926,
+      "longitude": 2.34236,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1070"
+    },
+    {
+      "name": "ZARA Dublin High Street",
+      "latitude": 53.283657,
+      "longitude": -6.300351,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+353 1 1005"
+    },
+    {
+      "name": "ZARA L'Hospitalet de Llobregat Shopping Center",
+      "latitude": 41.393663,
+      "longitude": 2.193455,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1071"
+    },
+    {
+      "name": "ZARA Johannesburg Flagship",
+      "latitude": -26.22164,
+      "longitude": 28.103728,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+27 11 1002"
+    },
+    {
+      "name": "ZARA Terrassa High Street",
+      "latitude": 41.541393,
+      "longitude": 2.128134,
+      "opening_hours": "M-F: 10-21\nS: 10-21",
+      "phone": "+34 93 1072"
+    },
+    {
+      "name": "ZARA Brussels Mall 2",
+      "latitude": 50.851064,
+      "longitude": 4.259738,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+32 2 1002"
+    },
+    {
+      "name": "ZARA Amsterdam Market Square",
+      "latitude": 52.358049,
+      "longitude": 4.859701,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+31 20 1004"
+    },
+    {
+      "name": "ZARA Malaga Flagship",
+      "latitude": 36.683123,
+      "longitude": -4.524661,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 95 1013"
+    },
+    {
+      "name": "ZARA Sydney Plaza 2",
+      "latitude": -33.823305,
+      "longitude": 151.129622,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+61 2 1004"
+    },
+    {
+      "name": "ZARA Zurich Downtown",
+      "latitude": 47.449078,
+      "longitude": 8.655885,
+      "opening_hours": "M-F: 10-20\nS: 10-20",
+      "phone": "+41 44 1002"
+    },
+    {
+      "name": "ZARA Mataró Downtown 2",
+      "latitude": 41.584277,
+      "longitude": 2.465522,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1073"
+    },
+    {
+      "name": "ZARA Sabadell City Center",
+      "latitude": 41.525725,
+      "longitude": 2.030159,
+      "opening_hours": "M-F: 10-21\nS: 10-21",
+      "phone": "+34 93 1074"
+    },
+    {
+      "name": "ZARA Mataró Shopping Center",
+      "latitude": 41.547252,
+      "longitude": 2.417153,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1075"
+    },
+    {
+      "name": "ZARA Girona Flagship",
+      "latitude": 42.053236,
+      "longitude": 2.786011,
+      "opening_hours": "M-F: 10-20\nS: 10-21",
+      "phone": "+34 97 1038"
+    },
+    {
+      "name": "ZARA Reus Shopping Center",
+      "latitude": 41.108711,
+      "longitude": 1.054272,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 97 1039"
+    },
+    {
+      "name": "ZARA Santa Coloma de Gramenet Old Town 2",
+      "latitude": 41.379532,
+      "longitude": 2.148778,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1076"
+    },
+    {
+      "name": "ZARA Sant Cugat del Vallès Plaza",
+      "latitude": 41.40154,
+      "longitude": 2.128285,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1077"
+    },
+    {
+      "name": "ZARA Paris Plaza",
+      "latitude": 48.862889,
+      "longitude": 2.44564,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+33 1 1004"
+    },
+    {
+      "name": "ZARA Singapore Shopping Center",
+      "latitude": 1.282302,
+      "longitude": 103.869025,
+      "opening_hours": "M-F: 10-22\nS: 10-22",
+      "phone": "+65 6 1001"
+    },
+    {
+      "name": "ZARA Tokyo High Street",
+      "latitude": 35.766183,
+      "longitude": 139.57131,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+81 3 1003"
+    },
+    {
+      "name": "ZARA L'Hospitalet de Llobregat Market Square 2",
+      "latitude": 41.359831,
+      "longitude": 2.214478,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1078"
+    },
+    {
+      "name": "ZARA Mataró Waterfront",
+      "latitude": 41.476524,
+      "longitude": 2.445504,
+      "opening_hours": "M-F: 10-21\nS: 10-22",
+      "phone": "+34 93 1079"
     }
-
-
-
-
   ]
 }
